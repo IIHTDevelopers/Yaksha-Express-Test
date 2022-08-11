@@ -1,0 +1,6 @@
+usershandlerBoundaryTestShouldGetAllUsers=true
+usershandlerBoundaryTestShouldCreateUser=true
+calculatorBoundaryTestAdds1&2ToEqual3=true
+calculatorBoundaryTestMultiplies1&2ToEqual2=true
+calculatorBoundaryTestDevides2By1ToEqual1=true
+calculatorBoundaryTestSubtracts1From2ToEqual1=true
